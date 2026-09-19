@@ -1,0 +1,13 @@
+title: Holdout
+description: Verified evaluation. Reproduce it, or it doesn't count.
+author: Noah Persaud
+email: noah@holdoutlabs.ai
+url: "https://holdoutlabs-ai.github.io"
+theme: minima
+show_excerpts: true
+permalink: /:title/
+minima:
+  date_format: "%B %-d, %Y"
+header_pages: []
+exclude:
+  - README.md
