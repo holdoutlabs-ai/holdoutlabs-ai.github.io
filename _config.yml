@@ -1,8 +1,8 @@
-title: Holdout
-description: Verified evaluation. Reproduce it, or it doesn't count.
+title: Holdout Labs
+description: Small decision models for games.
 author: Noah Persaud
 email: noah@holdoutlabs.ai
-url: "https://holdoutlabs-ai.github.io"
+url: "https://holdoutlabs.ai"
 theme: minima
 show_excerpts: true
 permalink: /:title/
